@@ -1,0 +1,55 @@
+body {
+  font-family: Garamond, serif;
+  font-size: 100%;
+}
+
+header {
+  background-color: #f44336;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 2.5em;
+  color: white;
+  padding: 25px;
+}
+
+nav {
+  background-color: #5c5858;
+  font-family: Helvetica, sans-serif;
+  color: white;
+  text-align: right;
+  font-size:0.875em;
+  padding: 25px;
+}
+
+h2 {
+  background-color: white;
+  color: black;
+  text-align: left;
+  font-size: 1.875em;
+  padding: 30px;
+}
+
+h3 {
+  background-color: white;
+  color: black;
+  text-align: left;
+  font-size: 1.5em;
+  padding: 15px;
+}
+
+p {
+  background-color: white;
+  color: black;
+  text-align: left;
+  font-size: 0.875em;
+  padding: 25px;
+}
+
+footer {
+  font-family: Garamond, serif;
+  background-color: #5c5858;
+  color: white;
+  text-align: left;
+  font-size: 0.875em;
+  padding: 25px;
+}
